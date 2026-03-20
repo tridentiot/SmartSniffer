@@ -1,4 +1,4 @@
-<h1 align=”center”>🚀 Trident IoT™ SmartSniffer</h1>
+<h1 align=”center”>🚀 Trident IoT® SmartSniffer</h1>
 
 <p align=”center”>
   <em>Multi-Protocol packet intelligence — built by developers for developers.</em>
@@ -9,7 +9,7 @@
 
 ## 🧠 What Is SmartSniffer?
 
-Trident IoT™ **SmartSniffer** is a **multi-protocol diagnostic tool**.
+Trident IoT® **SmartSniffer** is a **multi-protocol diagnostic tool**.
 
 The SmartSniffer is used to sniff, capture, decode, decrypt and analyze radio frequency (RF) communications within an IOT network. It acts as a protocol analyzer, allowing developers and installers to debug issues, monitor traffic, decrypt secure packets, and optimize network performance.  
 
@@ -94,6 +94,6 @@ SmartSniffer now has two write paths:
 ## 🧾 License
 
 > © 2026 **Trident IoT™** — All rights reserved.
-> The Trident IoT™ "SmartSniffer" is proprietary software, licensed through Trident IoT LLC.
+> The Trident IoT® "SmartSniffer" is proprietary software, licensed through Trident IoT LLC.
 
 -----
