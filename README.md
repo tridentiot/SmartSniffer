@@ -1,4 +1,4 @@
-<h1 align=”center”>🚀 Trident IoT® SmartSniffer</h1>
+<h1 align=”center”>🚀 Trident IoT® SmartSniffer™</h1>
 
 <p align=”center”>
   <em>Multi-Protocol packet intelligence — built by developers for developers.</em>
@@ -7,11 +7,11 @@
 
 ---
 
-## 🧠 What Is SmartSniffer?
+## 🧠 What Is SmartSniffer™?
 
-Trident IoT® **SmartSniffer** is a **multi-protocol diagnostic tool**.
+Trident IoT® **SmartSniffer™** is a **multi-protocol diagnostic tool**.
 
-The SmartSniffer is used to sniff, capture, decode, decrypt and analyze radio frequency (RF) communications within an IOT network. It acts as a protocol analyzer, allowing developers and installers to debug issues, monitor traffic, decrypt secure packets, and optimize network performance.  
+The SmartSniffer™ is used to sniff, capture, decode, decrypt and analyze radio frequency (RF) communications within an IOT network. It acts as a protocol analyzer, allowing developers and installers to debug issues, monitor traffic, decrypt secure packets, and optimize network performance.  
 
 
 ---
@@ -22,13 +22,13 @@ The SmartSniffer is used to sniff, capture, decode, decrypt and analyze radio fr
 Before you begin, make sure you have:
 
 - 🧾 **Required:** [Elcap Installed and Account Created](https://github.com/tridentiot/elcap)
-- ⚙️ **Required:** [Smartsniffer Hardware](https://tridentiot.com/technology/hardware/)
+- ⚙️ **Required:** [Smartsniffer™ Hardware](https://tridentiot.com/technology/hardware/)
 
 ---
 
 ## ⚡ Quick Start — Run via ElCap
 
-The easiest way to run SmartSniffer is through **ElCap**. Set the environment variable and launch:
+The easiest way to run SmartSniffer™ is through **ElCap**. Set the environment variable and launch:
 
 #### macOS / Linux
 ```bash
