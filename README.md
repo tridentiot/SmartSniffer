@@ -28,7 +28,7 @@ Before you begin, make sure you have:
 
 ## ⚡ Quick Start — Run via ElCap
 
-The easiest way to run SmartSniffer™ is through **ElCap**. Set the environment variable and launch:
+The easiest way to run SmartSniffer™ is through **ElCap**. 
 
 #### macOS / Linux
 ```bash
