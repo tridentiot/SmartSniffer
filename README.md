@@ -23,8 +23,8 @@ Before you begin, make sure you have:
 
 - 🧾 **Required:** [Elcap Installed and Account Created](https://github.com/tridentiot/elcap)
 - ⚙️ **Required:** [Smartsniffer™ Hardware](https://tridentiot.com/technology/hardware/)
-- 🪛 **Required:** [DKU Series USB Drivers](https://ftdichip.com/drivers/vcp-drivers/)
-                  - [DKN Series USB Drivers](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
+- 🪛 **Required:** [USB Drivers](https://ftdichip.com/drivers/vcp-drivers/)
+
 
 ---
 
